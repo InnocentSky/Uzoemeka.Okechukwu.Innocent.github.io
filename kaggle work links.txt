@@ -1,0 +1,6 @@
+
+https://www.kaggle.com/code/innocentsky/linear-regressions-on-co2-emission-by-vehicles
+
+https://www.kaggle.com/code/innocentsky/logistics-regression-compas-recidivism-racial-bias
+
+https://www.kaggle.com/code/innocentsky/patient-treatment-classification
